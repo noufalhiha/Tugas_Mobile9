@@ -1,7 +1,7 @@
 # IntentProject
 
-Nama : Serius Ndruru
-NIM : 31221058
+Nama : Noufal Ariq Fadhurrahman
+NIM : 312210526
 
 Kelas : TI.22.A.5
 
@@ -11,4 +11,8 @@ Dosen Pengampu : Donny Maulana, S.Kom.,M.M.S.I
 
 # HASIL RUNNING
 
-https://github.com/rius23/IntentProject/assets/129859832/5bb847ad-d310-4e7a-8575-51d4cd5505c2
+
+
+https://github.com/noufalhiha/Tugas_Mobile9/assets/92073727/56d8ac0b-5563-43d6-b1bd-74cdd7ddfea4
+
+
